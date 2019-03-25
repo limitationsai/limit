@@ -3,8 +3,6 @@ layout: post_layout
 title: 开始篇
 time: 2016年03月25日 星期一
 location: 广州
-pulished: true
-excerpt_separator: "```"
 ---
 
 我的第一篇 github 博客, 本博客使用 [jekyll](http://jekyll.bootcss.com/) + [bootstrap](http://v3.bootcss.com) 搭建!
