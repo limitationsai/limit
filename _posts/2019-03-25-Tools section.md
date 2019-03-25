@@ -9,6 +9,11 @@ excerpt_separator: "```"
 
 工具(ide)推荐，面向前端开发者
 
+---
+title: sublime text 3
+layout: default
+---
+
 我的第一篇 github 博客, 本博客使用 [jekyll](http://jekyll.bootcss.com/) + [bootstrap](http://v3.bootcss.com) 搭建!
 
 感谢 [github](https://github.com) 提供的 Github Pages 功能!
