@@ -1,6 +1,6 @@
 # Site settings
 title: 啊东博客
-description: 啊东博客
+description: 能记录一切的个人博客
 favicon: /assets/img/avatar.JPG
 baseurl:
 url: https://liungkejin.github.io
