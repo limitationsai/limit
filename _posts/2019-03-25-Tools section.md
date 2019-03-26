@@ -1,7 +1,7 @@
 ---
 layout: post_layout
 title: 工具篇
-time: 2016年03月25日 星期一
+time: 2019年03月25日 星期一
 location: 广州
 ---
 [sublime text 3](http://www.sublimetext.com/)
